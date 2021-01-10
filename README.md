@@ -47,6 +47,8 @@ The most difficult part of course was figuring out how to resolve merge conflict
 </details><br>
 
 ## Linux CLI, and HTTP
+  
+Wow! That was fairly difficult and interesting at the same time to undestand things I haven't known about HTTP before. So it became more clear how HTTP requests/responses work. I've learned new Metods (like TRACE), Status Codes and some usefull Headers. In addition to this, I read some articles about CORS and how to solve CORS-problem.
 
 <details>
 <summary>Snapshot</summary>
@@ -54,6 +56,3 @@ The most difficult part of course was figuring out how to resolve merge conflict
 ![Linux Survival](./task_linux_cli/linux-survival.png)
 
 </details><br>
-  
-Wow! That was fairly difficult and interesting at the same time to undestand things I haven't known about HTTP before. So it became more clear how HTTP requests/responses work. I've learned new Metods (like TRACE), Status Codes and some usefull Headers. In addition to this, I read some articles about CORS and how to solve CORS-problem.
-

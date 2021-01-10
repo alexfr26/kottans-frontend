@@ -5,7 +5,7 @@
 ### ***General***
 
 - [x] [Git Basics](#git-basics)
-- [ ] [Linux CLI and Networking](#linux-cli-and-networking)
+- [x] [Linux CLI and Networking](#linux-cli-and-http)
 - [ ] [VCS, GitHub and Collaboration](#vcs-github-and-collaboration)
 
 ### ***Front-End Basics***
@@ -44,4 +44,16 @@ The most difficult part of course was figuring out how to resolve merge conflict
 
 ![LearnGit Remote Course](./git_basics/learnGit-remote-done.png)
 
-</details>
+</details><br>
+
+## Linux CLI, and HTTP
+
+<details>
+<summary>Snapshot</summary>
+
+![Linux Survival](./task_linux_cli/linux-survival.png)
+
+</details><br>
+  
+Wow! That was fairly difficult and interesting at the same time to undestand things I haven't known about HTTP before. So it became more clear how HTTP requests/responses work. I've learned new Metods (like TRACE), Status Codes and some usefull Headers. In addition to this, I read some articles about CORS and how to solve CORS-problem.
+

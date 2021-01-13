@@ -6,7 +6,7 @@
 
 - [x] [Git Basics](#git-basics)
 - [x] [Linux CLI and Networking](#linux-cli-and-http)
-- [ ] [VCS, GitHub and Collaboration](#vcs-github-and-collaboration)
+- [x] [Git Collaboration](#git-collaboration)
 
 ### ***Front-End Basics***
 
@@ -56,3 +56,17 @@ Wow! That was fairly difficult and interesting at the same time to undestand thi
 ![Linux Survival](./task_linux_cli/linux-survival.png)
 
 </details><br>
+
+## Git Collaboration
+
+I regret I haven't passed this course right after Git Basics. Interacting with remote repositories has become more understandable. Need more practice using a powerful rebase command (done) :D
+
+<details>
+<summary>Snaphots</summary>
+
+![Udacity Git Collaboration](./task_git_collaboration/Git_collaboration_course.png)
+
+![LearnGit Main Course](./git_basics/learnGit-main-done.png)
+
+![LearnGit Remote Course](./git_basics/learnGit-remote-done.png)
+</details>
